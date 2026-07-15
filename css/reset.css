@@ -1,0 +1,36 @@
+/*PRIMEIRA PARTE DO PROJETO - CONFIGURAÇÕES INICIAIS*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    font-family: 'Inter', sans-serif;
+}
+/*PRIMEIRA PARTE DO PROJETO - CONFIGURAÇÕES INICIAIS*/
+img{
+    max-width: 100%;
+    display: block;
+}
+/*PRIMEIRA PARTE DO PROJETO - CONFIGURAÇÕES INICIAIS*/
+a{
+    display: inline-block;
+    text-decoration: none;
+}
+/*PRIMEIRA PARTE DO PROJETO - CONFIGURAÇÕES INICIAIS*/
+ul{
+    list-style: none;
+}
+
+/*PRIMEIRA PARTE DO PROJETO - CONFIGURAÇÕES INICIAIS*/
+button{
+    background-color: transparent;
+    border: 0;
+    cursor: pointer;
+
+}
+/*PRIMEIRA PARTE DO PROJETO - CONFIGURAÇÕES INICIAIS*/
+html{
+    font-size: 62.5%;
+    background-color: var(--gray-900);
+    color: var(--gray-100);
+}

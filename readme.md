@@ -1,7 +1,7 @@
 # 🚀 Projeto Structboost
 
 <p align="center">
-  <img src="./imgs/preview.png" alt="Preview do Projeto" width="100%">
+  <img src="./imgs/Preview.png" alt="Preview do Projeto" width="100%">
 </p>
 
 

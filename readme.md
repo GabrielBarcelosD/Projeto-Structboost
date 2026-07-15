@@ -80,11 +80,11 @@ Este projeto proporcionou uma evolução significativa em diversos aspectos do d
 ## 📬 Contato
 
 <div> 
-   <a href="mailto:seuemail@email.com">
+   <a href="mailto:gabrielbarcelosarj@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-  <a href="https://www.linkedin.com/in/cristianevilelaazevedo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-  <a href="https://github.com/seuusuario">
+  <a href="https://www.linkedin.com/in/gabrielbarcelosofc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://github.com/GabrielBarcelosD">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </div>
@@ -94,5 +94,5 @@ Este projeto proporcionou uma evolução significativa em diversos aspectos do d
 ---
 
 <p align="center">
-Desenvolvido com  por <strong>Gabriel Barcelos</strong>
+Desenvolvido por <strong>Gabriel Barcelos</strong>
 </p>

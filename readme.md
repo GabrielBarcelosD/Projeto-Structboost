@@ -59,7 +59,7 @@ Ao longo do desenvolvimento, aprofundei meus conhecimentos na estruturação de 
 
 O projeto pode ser acessado em:
 
-🔗 **https://seu-projeto.vercel.app**
+🔗 <a href="https://gabrielbarcelosd.github.io/Projeto-Structboost/">Structboost</a></p>
 
 ---
 
